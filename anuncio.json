@@ -1,5 +1,6 @@
 {
   "mostrar_alerta": true,
-  "mensaje": "El periodo de programación de retiros se cerrará a las 16:00 hrs del día 27 de Mayo. Los registros fuera de tiempo no serán considerados.",
-  "fecha_limite": "2026-05-27T16:00:00-06:00"
+  "mensaje_activo": "EL PERIODO DE PROGRAMACION DE RETIROS CERRARA A LAS 16:00 HRS DEL DIA 22 DE MAYO. LOS REGISTROS FUERA DE TIEMPO NO SERÁN CONSIDERADOS.",
+  "mensaje_cerrado": "EL PERIODO DE PROGRAMACION DE RETIROS SE ENCUENTRA CERRADO.",
+  "fecha_limite": "2026-05-22T16:00:00-06:00"
 }
